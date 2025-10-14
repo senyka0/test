@@ -1,0 +1,23 @@
+web3
+pydantic
+fastapi
+requests
+eth_abi
+pandas
+dotenv
+seleniumbase==4.35.4
+selenium
+selenium-wire
+undetected-chromedriver
+selenium_stealth
+scipy
+uvicorn
+IMAPClient
+tweepy
+Pillow
+ccxt
+openai
+discord.py-self @ git+https://github.com/dolfies/discord.py-self.git@98ab7fff9a441cbcea40f9ff5e9680f5f8392ca1
+certifi
+google-cloud-firestore
+bip_utils
